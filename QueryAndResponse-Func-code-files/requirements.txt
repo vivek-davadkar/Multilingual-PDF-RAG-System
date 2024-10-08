@@ -1,0 +1,8 @@
+azure-functions
+azure-storage-file-datalake
+azure-cosmos
+PyMuPDF
+langdetect
+pytesseract
+pdf2image
+Pillow
