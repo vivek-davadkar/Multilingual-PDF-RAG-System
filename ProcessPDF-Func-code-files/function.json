@@ -1,0 +1,11 @@
+{
+    "bindings": [
+        {
+            "type": "blobTrigger",
+            "direction": "in",
+            "name": "blob",
+            "path": "pdf-documents/{*}",
+            "connection": "YOUR_AZURE_STORAGE_CONNECTION_STRING"  // Replace with actual connection string
+        }
+    ]
+}
